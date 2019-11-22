@@ -1,0 +1,6 @@
+hostname nameuser
+
+#Hostname is used to display the system's DNS name.
+#sudo apt-get install sudo
+#nano /etc/sudoers
+#change/add to User privilege: lnoisome ALL: (ALL:ALL)ALL

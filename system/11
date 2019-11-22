@@ -1,0 +1,13 @@
+df -h
+
+# display free disk space
+# -h - "Human-readable" output
+# Filesystem      Size  Used Avail Use% Mounted on
+# /dev/sda1       7.4G  3.8G  3.2G  55% /
+# udev             10M     0   10M   0% /dev
+# tmpfs           402M  5.9M  397M   2% /run
+# tmpfs          1005M  144K 1005M   1% /dev/shm
+# tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+# tmpfs          1005M     0 1005M   0% /sys/fs/cgroup
+# tmpfs           201M   12K  201M   1% /run/user/1000
+

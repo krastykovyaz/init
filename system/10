@@ -1,0 +1,15 @@
+sudo fdisk -l
+# fdisk - DOS partition maintence program
+# -l - list the partition tables
+
+#Disk /dev/sda: 8 GiB, 8589934592 bytes, 16777216 sectors
+#Units: sectors of 1 * 512 = 512 bytes
+#Sector size (logical/physical): 512 bytes / 512 bytes
+#I/O size (minimum/optimal): 512 bytes / 512 bytes
+#Disklabel type: dos
+#Disk identifier: 0xd9809de5
+
+#Device     Boot    Start      End  Sectors  Size Id Type
+#/dev/sda1  *        2048 15988735 15986688  7.6G 83 Linux
+#/dev/sda2       15990782 16775167   784386  383M  5 Extended
+#/dev/sda5       15990784 16775167   784384  383M 82 Linux swap / Solaris

@@ -1,0 +1,13 @@
+/etc/hosts
+
+#etc - system configuration folder
+# In computer networking, localhost is a hostname that means this computer.
+# It is used to access the network services that are running on the host
+# via the loopback network interface. Using the loopback interface
+# bypasses any local network interface hardware.
+#
+# broadcasthost is simply the last IP address in your subnet. For example,
+# if your Mac has an IP address of 192.168.1.2 with a subnet
+# mask of 255.255.255.0 then the last IP address in the subnet, and
+# the broadcasthost is 192.168.1.255 Any traffic sent to broadcasthost
+# is automatically passed to every device in the subnet.

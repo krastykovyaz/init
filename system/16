@@ -1,0 +1,7 @@
+cron
+
+# cron — daemon to execute scheduled commands
+#  to run periodically at fixed times, dates, or intervals.
+#  It typically automates system maintenance or administration—
+#  though its general-purpose nature makes it useful for things like
+# downloading files from the Internet and downloading email at regular intervals

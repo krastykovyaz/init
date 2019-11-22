@@ -1,0 +1,11 @@
+sudo tail -f /var/log/syslog &
+
+# tail - display last part of a file
+# -f - to not stop when end file is reached
+#'&' -  Suppose you issue the command kwrite then kwrite will open in a new
+#window, but the terminal will not receive a new prompt until that
+#window is closed. On the other hand, 'kwrite &'# will open the new window
+#in the same way, but the terminal will receive the new prompt immediately
+#and may be used in parallel with kwrite
+
+# [1] 1674

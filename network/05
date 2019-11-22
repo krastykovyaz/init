@@ -1,0 +1,3 @@
+nslookup slash16.org | grep Server | awk '{print $2}'
+
+#nslookup query Internet name servers

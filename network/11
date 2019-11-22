@@ -1,0 +1,10 @@
+# Traceroute is a very useful tool for determining the response delays
+# and routing loops present in a network pathway across packet switched nodes.
+# It also helps to locate any points of failure encountered
+# while en route to a certain destination.i
+# https://whatismyipaddress.com/nat
+
+IP = 192.168.20.1
+Network Address Translation (NAT)
+
+locale ip->outside ip->public ip

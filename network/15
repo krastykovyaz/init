@@ -1,0 +1,4 @@
+echo "46.19.122.85 intra.42.fr"
+#echo "46.19.122.85 intra.42.fr" > /etc/hosts
+
+#should put to the /etc/hosts but it is impossible

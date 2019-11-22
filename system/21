@@ -1,0 +1,5 @@
+cat /etc/passwd | grep '/home/' | awk -F':' '{print $1}'
+
+#concatenate files and print on the standard output
+#select row with home
+#field separator

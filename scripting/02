@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "Enter user login"
+read user
+sudo pkill -9 -u $user
+sudo deluser --remove-all-files $user
+
+# pkill command which will look up or signal processes based on name.
+# It can send the specified signal (such as KILL) to each process.
+#remove all files in user

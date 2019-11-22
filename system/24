@@ -1,0 +1,17 @@
+apt list --installed
+
+# annotation processing tool, includes a set of new reflective APIs and
+# supporting infrastructure to process program annotations.
+# ex:
+# psmisc/oldoldstable,now 22.21-2 amd64 [installed,automatic]
+# pstoedit/oldoldstable,now 3.62-2+b1 amd64 [installed,automatic]
+# pulseaudio/oldoldstable,now 5.0-13 amd64 [installed,automatic]
+# pulseaudio-module-x11/oldoldstable,now 5.0-13 amd64 [installed,automatic]
+# pulseaudio-utils/oldoldstable,now 5.0-13 amd64 [installed,automatic]
+# python/oldoldstable,now 2.7.9-1 amd64 [installed]
+# python-apt/oldoldstable,now 0.9.3.12 amd64 [installed]
+# python-apt-common/oldoldstable,now 0.9.3.12 all [installed,automatic]
+# python-cairo/oldoldstable,now 1.8.8-1+b2 amd64 [installed,automatic]
+# python-cffi/oldoldstable,now 0.8.6-1 amd64 [installed,automatic]
+# python-chardet/oldoldstable,now 2.3.0-1 all [installed,automatic]
+# python-cryptography/oldoldstable,now 0.6.1-1+deb8u1 amd64 [installed,automatic]

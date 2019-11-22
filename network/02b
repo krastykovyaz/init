@@ -1,0 +1,4 @@
+(ping -c 2 -s 1 `bash 02a` > /dev/null && arp -a) | grep -v '?' | awk '{print $2}' | tr -d '(' | tr -d ')'
+
+#arp - address resolution display and control
+#-a - display all current ARP

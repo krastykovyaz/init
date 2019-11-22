@@ -1,0 +1,37 @@
+systemctl list-unit-files | grep 'enabled' | awk '{print $1}'
+
+# list-unit-files List unit files installed on the system, in combination with their
+# enablement state
+
+#ex:
+#acpid.path
+#cups.path
+#accounts-daemon.service
+#anacron-resume.service
+#anacron.service
+#atd.service
+#avahi-daemon.service
+#bluetooth.service
+#cron.service
+#cups-browsed.service
+#cups.service
+#dbus-org.bluez.service
+#dbus-org.freedesktop.Avahi.service
+#dbus-org.freedesktop.ModemManager1.service
+#dbus-org.freedesktop.nm-dispatcher.service
+#display-manager.service
+#gdm.service
+#getty@.service
+#hwclock-save.service
+#ModemManager.service
+#NetworkManager-dispatcher.service
+#NetworkManager.service
+#pppd-dns.service
+#rsyslog.service
+#ssh.service
+#sshd.service
+#syslog.service
+#acpid.socket
+#avahi-daemon.socket
+#cups.socket
+#remote-fs.target

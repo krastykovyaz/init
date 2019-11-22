@@ -1,0 +1,5 @@
+netstat -rn | grep default | awk 'NR == 1 {print $2}'
+
+#netstat show network status
+#-n transform network address to the number
+#-r display routing table

@@ -1,0 +1,12 @@
+ssh session
+Use command sudo adduser
+Enter password for the new account and confirm
+Enter details of the new user and press Y
+Using GUI (graphical user interface)
+Go to the system settings look for an icon which says 'User Accounts'.
+Enter a password when prompted, then click the plus sign.
+A new window would pop up, asking you for adding information to the new user
+account.The account type offers two choices - standard and administration
+The new account would show, but would be disabled by default.
+To activate it, click the password option and add a new password.
+Click change to enable the account.

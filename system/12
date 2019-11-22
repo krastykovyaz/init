@@ -1,0 +1,18 @@
+sudo du -sh /var/*
+
+# du -disk usage stat
+# -s - each file
+# -h - "Human-readable" output
+# var foldder
+# 1.9M	/var/backups
+# 93M	/var/cache
+# 4.0K	/var/games
+# 169M	/var/lib
+# 4.0K	/var/local
+# 0	/var/lock
+# 18M	/var/log
+# 4.0K	/var/mail
+# 4.0K	/var/opt
+# 0	/var/run
+# 80K	/var/spool
+# 52K	/var/tmp

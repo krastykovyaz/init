@@ -1,0 +1,4 @@
+sudo systemctl restart ssh
+
+#systemctl - control the systemd system and service manager
+#restart one or more units specified on the command line

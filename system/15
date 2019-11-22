@@ -1,0 +1,12 @@
+kill PID
+
+# kill - terminate or signal a process
+# process identification number
+
+# -bash: kill: PID: arguments must be process or job IDs
+# [1]   Killed                  sudo tail -f /var/log/syslog
+# [2]   Killed                  sudo tail -f /var/log/syslog
+# [3]   Killed                  sudo tail -f /var/log/syslog
+# [4]   Killed                  sudo tail -f /var/log/syslog
+# [5]-  Killed                  sudo tail -f /var/log/syslog
+# [6]+  Killed                  sudo tail -f /var/log/syslog

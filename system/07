@@ -1,0 +1,4 @@
+sudo service ssh status | grep 'Main PID'
+
+#select PID in service command
+#Main PID: 494 (sshd)

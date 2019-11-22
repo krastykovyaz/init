@@ -1,0 +1,4 @@
+nslookup slash16.org 8.8.8.8
+
+#nslookup internet name server DNS
+#Google Public DNS represents two IP addresses for IPv4 – 8.8.8.8 and 8.8.4.4.

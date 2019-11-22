@@ -1,0 +1,5 @@
+sudo systemctl stop ssh
+
+#systemctl - Control the systemd system and service manager
+# active -> inactive
+
